@@ -11,10 +11,10 @@ As a junior data scientist, I am strongly interested in using data-driven insigh
 
 **Tech Toolbox 🛠️**
 
-**Languages:** Python, SQL, Java
-**Frameworks & Libraries:** PyTorch, NLTK, Pandas, Numpy, Seaborn, Scikit-learn, XGBoost, Scipy
-**Tools:** AWS, Docker, Git
-**Specialties:** Data visualization, Data Cleaning
+-**Languages:** Python, SQL, Java
+-**Frameworks & Libraries:** PyTorch, NLTK, Pandas, Numpy, Seaborn, Scikit-learn, XGBoost, Scipy
+-**Tools:** AWS, Docker, Git
+-**Specialties:** Data visualization, Data Cleaning
 
 **Education 🎓**
 
@@ -22,13 +22,13 @@ As a junior data scientist, I am strongly interested in using data-driven insigh
 
 **Certifications 📜**
 
-Python for Data Science, IBM
+-Python for Data Science, IBM
 
-Data Analytics Essentials, CISCO
+-Data Analytics Essentials, CISCO
 
-SQL and Relational Databases, IBM
+-SQL and Relational Databases, IBM
 
-Machine Learning with Python, IBM
+-Machine Learning with Python, IBM
 
-Deep Learning using TensorFlow, IBM
+-Deep Learning using TensorFlow, IBM
 

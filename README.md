@@ -1,34 +1,26 @@
-- 👋 Hi, I’m @aamiransari1010
-  
-- 📍 Mumbai
-📧 **Email**: ma.ansari1010@gmail.com
-🔗 **LinkedIn**: www.linkedin.com/in/ansari-aamir-anwer
-👨‍💻 **GitHub**: aamiransari1010
 
-**About Me 🌐**
+📍 Location: Mumbai
+📧 Email: ma.ansari1010@gmail.com
+🔗 LinkedIn: linkedin.com/in/ansari-aamir-anwer
+👨‍💻 GitHub: github.com/aamiransari1010
 
-As a junior data scientist, I am strongly interested in using data-driven insights to make meaningful decisions and address challenging issues. Having a solid background in machine learning, programming, and statistics, I'm passionate about exploring new approaches for extracting useful insights from data. I have worked on a variety of projects, ranging from data visualization and predictive modeling to exploratory data analysis. I work best in fast-paced settings where I can work with diverse teams to find opportunities, unearth trends, and create solutions that drive business expansion. Motivated by a thirst for knowledge and a dedication to lifelong learning, I am excited to develop my abilities and assist with initiatives that have a significant impact. I know how to use various data analysis and visualization technologies, including Python, SQL, Tableau, etc.
+About Me 🌐
+As a junior data scientist, I am passionate about leveraging data-driven insights to drive informed decision-making and solve complex problems. With a solid foundation in machine learning, programming, and statistics, I am dedicated to uncovering actionable insights from data. My experience spans various projects, including data visualization, predictive modeling, and exploratory data analysis.
 
-**Tech Toolbox 🛠️**
+I thrive in fast-paced environments where I can collaborate with diverse teams to identify opportunities, reveal trends, and develop solutions that propel business growth. Fueled by a continuous desire to learn and a commitment to lifelong education, I am eager to enhance my skills and contribute to impactful initiatives. I am proficient in utilizing a range of data analysis and visualization tools such as Python, SQL, and Tableau.
 
--**Languages:** Python, SQL, Java
--**Frameworks & Libraries:** PyTorch, NLTK, Pandas, Numpy, Seaborn, Scikit-learn, XGBoost, Scipy
--**Tools:** AWS, Docker, Git
--**Specialties:** Data visualization, Data Cleaning
+Tech Toolbox 🛠️
+Languages: Python, SQL, Java
+Frameworks & Libraries: PyTorch, NLTK, Pandas, Numpy, Seaborn, Scikit-learn, XGBoost, Scipy
+Tools: AWS, Docker, Git
+Specialties: Data Visualization, Data Cleaning
+Education 🎓
+Bachelor in Electronics & Telecommunication Engineering
+Savitribai Phule Pune University
 
-**Education 🎓**
-
-**Bachelors in Computer Applications**, Savitribai Phule Pune University
-
-**Certifications 📜**
-
--Python for Data Science, IBM
-
--Data Analytics Essentials, CISCO
-
--SQL and Relational Databases, IBM
-
--Machine Learning with Python, IBM
-
--Deep Learning using TensorFlow, IBM
-
+Certifications 📜
+Python for Data Science - IBM
+Data Analytics Essentials - CISCO
+SQL and Relational Databases - IBM
+Machine Learning with Python - IBM
+Deep Learning using TensorFlow - IBM
